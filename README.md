@@ -1,23 +1,20 @@
 # REDAffectiveLM <br>
-<img src= 'images/model_architecture.png' style="max-width: 100%;"> 
+<img src= 'images/model_architecture.png' style="max-width: 75%;"> 
 
 **Distinguishing Natural and Computer-Generated Images using Multi-Colorspace fused EfficientNet** </br>
-Manjary P Gangan, Anoop K, and Lajish V L </br>
-Computational Intelligence and Data Analytics (CIDA Lab) </br>
-Department of Computer Science </br>
-University of Calicut, India
+Anoop K, Deepak P., Manjary P Gangan, Savitha Sam Abraham, and Lajish V L </br>
 
-:memo: Paper : https://www.sciencedirect.com/science/article/abs/pii/S2214212622001247 </br>
+:memo: pre-print : https://www.xxxxxxx </br>
 :earth_asia: Link: https://dcs.uoc.ac.in/cida/projects/dif/mceffnet.html
 
-**Abstract**: The problem of distinguishing natural images from photo-realistic computer-generated ones either addresses _natural images versus computer graphics_ or _natural images versus GAN images_, at a time. But in a real-world image forensic scenario, it is highly essential to consider all categories of image generation, since in most cases image generation is unknown. We, for the first time, to our best knowledge, approach the problem of distinguishing natural images from photo-realistic computer-generated images as a three-class classification task classifying natural, computer graphics, and GAN images. For the task, we propose a Multi-Colorspace fused EfficientNet model by parallelly fusing three EfficientNet networks that follow transfer learning methodology where each network operates in different colorspaces, RGB, LCH, and HSV, chosen after analyzing the efficacy of various colorspace transformations in this image forensics problem. Our model outperforms the baselines in terms of accuracy, robustness towards post-processing, and generalizability towards other datasets. We conduct psychophysics experiments to understand how accurately humans can distinguish natural, computer graphics, and GAN images where we could observe that humans find difficulty in classifying these images, particularly the computer-generated images, indicating the necessity of computational algorithms for the task. We also analyze the behavior of our model through visual explanations to understand salient regions that contribute to the model's decision making and compare with manual explanations provided by human participants in the form of region markings, where we could observe similarities in both the explanations indicating the powerful nature of our model to take the decisions meaningfully. 
+**Abstract**:Technological advancements in web platforms allow people to express and share emotions towards textual write-ups written and shared by others. This brings about different interesting domains for analysis; emotion expressed by the writer and emotion elicited from the readers. In this paper, we propose a novel approach for Readers' Emotion Detection from short-text documents using a deep learning model called REDAffectiveLM. Within state-of-the-art NLP tasks, it is well understood that utilizing context-specifc representations from transformer-based pre-trained language models helps achieve improved performance. Within this afective computing task, we explore how incorporating afective information can further enhance performance. Towards this, we leverage context-specific and affect enriched representations by using a transformer-based pre-trained language model in tandem with affect enriched Bi-LSTM+Attention. For empirical evaluation, we procure a new dataset REN-20k, besides using RENh-4k and SemEval-2007. We evaluate the performance of our REDAffectiveLM rigorously across these datasets, against a vast set of state-of-the-art baselines, where our model consistently outperforms baselines and obtains statistically signifcant results. Our results establish that utilizing affect enriched representation along with context-specific representation within a neural architecture can considerably enhance readers' emotion detection. Since the impact of affect enrichment specifically in readers' emotion detection isn't well explored, we conduct a detailed analysis over affect enriched Bi-LSTM+Attention using qualitative and quantitative model behavior evaluation techniques. We observe that compared to conventional semantic embedding, affect enriched embedding increases the ability of the network to eectively identify and assign weightage to the key terms responsible for readers' emotion detection to improve prediction.
 
 For other inquiries, please contact: </br>
 Anoop K, University of Calicut, Kerala, India. :email: anoopk_dcs@uoc.ac.in </br> 
 Deepak P., Queen’s University Belfast, Northern Ireland, UK. :email: deepaksp@acm.org </br>
 Manjary P Gangan, University of Calicut, Kerala, India. :email: manjaryp_dcs@uoc.ac.in </br>
 Savitha Sam Abraham, School of Science and Technology, Örebro University, Örebro, Sweden. :email:  savitha.sam-abraham@oru.se </br>
-Lajish V. L., University of Calicut, Kerala, India. :email: lajish@uoc.ac.in :earth_asia: [website](https://dcs.uoc.ac.in/index.php/dr-lajish-v-l)
+Lajish V. L., University of Calicut, Kerala, India. :email: lajish@uoc.ac.in
 
 ## Citation
 ```
