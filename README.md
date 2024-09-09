@@ -1,9 +1,9 @@
 # REDAffectiveLM <br>
 <img src= 'images/model_architecture.png' style="max-width: 75%;"> 
 
-**REDAffectiveLM : Leveraging Affect Enriched Embedding and Transformer-based Neural Language Model for Readers' Emotion Detection** </br>
+# REDAffectiveLM : Leveraging Affect Enriched Embedding and Transformer-based Neural Language Model for Readers' Emotion Detection </br>
 Anoop K<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Manjary P Gangan<sup>[1](#author1)</sup>, Savitha Sam Abraham<sup>[3](#author3)</sup>, and Lajish V L<sup>[1](#author1)</sup> </br>
-<a name="author1"><sup>1</sup></a> Department of Computer Science, University, University of Calict, Kerala, India. </br>
+<a name="author1"><sup>1</sup></a> Department of Computer Science, University of Calicut, Kerala, India. </br>
 <a name="author2"><sup>2</sup></a> School of Electronics, Electrical Engineering and Computer Science, Queen’s University Belfast, Northern Ireland, UK.</br>
 <a name="author3"><sup>3</sup></a> School of Science and Technology, Örebro University, Örebro, Sweden.
 
