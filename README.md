@@ -7,7 +7,7 @@ Anoop K<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Manjary P Ga
 <a name="author2"><sup>2</sup></a> School of Electronics, Electrical Engineering and Computer Science, Queen’s University Belfast, Northern Ireland, UK.</br>
 <a name="author3"><sup>3</sup></a> School of Science and Technology, Örebro University, Örebro, Sweden.
 
-
+:memo: paper : https://link.springer.com/article/10.1007/s10115-024-02194-4 </br>
 :memo: pre-print : https://arxiv.org/abs/2301.08995 </br>
 :earth_asia: Link : https://dcs.uoc.ac.in/cida/projects/ac/redaffectivelm.html
 
