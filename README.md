@@ -21,7 +21,7 @@ For inquiries, please contact: </br>
 ```
 @article{kadan2024redaffectivelm,
   title={REDAffectiveLM: leveraging affect enriched embedding and transformer-based neural language model for readers’ emotion detection},
-  author={Kadan, Anoop and Deepak, P and Gangan, Manjary P and Abraham, Sam Savitha and Lajish, VL},
+  author={Kadan, Anoop and P., Deepak and P. Gangan, Manjary and Sam Abraham, Savitha and V. L., Lajish},
   journal={Knowledge and Information Systems},
   volume={66},
   number={12},
