@@ -15,11 +15,7 @@ Anoop Kadan<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Manjary 
 
 For inquiries, please contact: </br>
 1. Anoop Kadan, University of Southampton, UK. :email: anoopkadan23@gmail.com </br> 
-2. Deepak P., Queen’s University Belfast, Northern Ireland, UK. :email: deepaksp@acm.org </br>
-3. Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com </br>
-4. Savitha Sam Abraham, Örebro University, Örebro, Sweden. :email:  savitha.sam-abraham@oru.se </br>
-5. Lajish V. L., University of Calicut, Kerala, India. :email: lajish@uoc.ac.in
-
+2. Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com </br>
 ## Citation
 ```
 @article{kadan2024redaffectivelm,
