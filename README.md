@@ -15,7 +15,7 @@ Anoop Kadan<sup>[1](#author1)</sup>, Deepak P.<sup>[2](#author2)</sup>, Manjary 
 
 For inquiries, please contact: </br>
 &nbsp; Anoop Kadan, University of Southampton, UK. :email: anoopkadan23@gmail.com :earth_asia: [website](https://www.southampton.ac.uk/people/65qvt5/doctor-anoop-kadan)</br>
-  Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
+&nbsp; Manjary P. Gangan, University of Calicut, Kerala, India. :email: manjaryp@gmail.com :earth_asia: [website](https://dcs.uoc.ac.in/~manjary/) </br>
 
 ## Citation
 ```
